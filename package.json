@@ -1,7 +1,7 @@
 {
   "name": "@corets/fiber",
   "description": "Statically typed client for remote, RPC style communication",
-  "version": "0.0.0",
+  "version": "0.0.1-0",
   "author": "Maxim Kott",
   "license": "MIT",
   "main": "dist/index.js",
