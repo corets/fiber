@@ -8,7 +8,12 @@
   "module": "dist/index.esm.js",
   "types": "dist/types/index.d.ts",
   "keywords": [
-    "corets"
+    "corets",
+    "rpc",
+    "messaging",
+    "static",
+    "facade",
+    "client"
   ],
   "files": [
     "/dist"
