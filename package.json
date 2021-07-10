@@ -32,7 +32,7 @@
     "build": "rm -rf dist && rollup -c",
     "release": "np --no-release-draft --tag next",
     "preview": "np --no-release-draft --tag dev",
-    "prepublish": "yarn run build"
+    "version": "yarn run build"
   },
   "devDependencies": {
     "@types/jest": "^26.0.24",
