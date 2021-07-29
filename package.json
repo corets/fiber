@@ -23,7 +23,7 @@
     "/dist"
   ],
   "repository": "github:corets/fiber",
-  "homepage": "https://corets.github.io/fiber",
+  "homepage": "https://docs.corets.io/services/fiber",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
